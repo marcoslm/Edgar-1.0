@@ -1,0 +1,17 @@
+# --- Código FreeBASIC (Rebirth Edition) ---
+edgar-rebirth-2011/*.bas linguist-language=FreeBasic
+edgar-rebirth-2011/*.bi  linguist-language=FreeBasic
+
+# --- Código legacy en QuickBasic / QBasic ---
+legacy-2004-hp200lx/*.bas linguist-language=QuickBASIC
+
+# --- Datos / recursos (opcional, por limpieza) ---
+*.dat binary
+*.bmp binary
+*.png binary
+
+# --- Ejecutables / libs (opcional) ---
+*.exe binary
+*.dll binary
+*.lib binary
+*.obj binary

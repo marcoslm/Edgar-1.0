@@ -1,0 +1,84 @@
+EDGAR 1			    Archivo LEEME.TXT
+
+Edgar 1 es un programa que simula en la medida
+de lo posible una conversación humana.
+
+Dadas las limitaciones de la máquina en donde
+ha sido programada (un palmtop de bolsillo con
+MS-DOS) no se debe esperar mucho de él en el
+sentido de encontrar conversaciones inteligen-
+tes. A parte de las limitaciones del hardware,
+están por supuesto las mías ;)
+
+Hay que tener muy claro que se está hablando
+con un programa y no con una persona. A Edgar
+hay que hablarle con frases sencillas y bien
+detalladas.
+El fallo típico es dejar frases a medias como
+"yo tambien", "yo no", etc. Para que Edgar
+lo entienda hay que decirle las frases ente-
+ras. P.e.: "yo tambien soy inteligente" o
+"yo no tengo ganas de comer".
+
+La característica más importante de Edgar es
+la capacidad de aprender algunas cosas y de
+relacionar todo lo aprendido.
+Las palabras clave para enseñar cosas a Edgar
+son: "ES" o "SON"
+
+Si le decimos a Edgar "idiota es tonto"
+relacionará rápidamente esa igualdad. Si más
+tarde le preguntamos "que es tonto?" nos res-
+pondera que tonto es idiota y viceversa.
+Después podríamos decirle que "tonto es memo"
+y más tarde le preguntaríamos "que es idiota"
+entonces sorprendentemente edgar relazionará
+idiota con memo, ya que si idiota=tonto y
+tonto=memo, Edgar deduce rápidamente que
+memo=idiota.
+
+Mientras más cosas le enseñemos, más nos
+reiremos con sus deducciones.
+
+Otra característica interesante es que Edgar
+es capaz de seguir el "hilo" de la conversa-
+ción durante al menos un rato. Otros programas
+ de inteligencia artificial no son capaces de
+hacer esto.
+
+P.E:
+"Quien es Marcos?"
+Edgar : "Es mi programador"
+"el qué?"
+Edgar : "Marcos es mi programador"
+"por qué?"
+Edgar : "crees que yo no sé que Marcos es mi 
+         programador?"
+"quien?"
+Edgar : "Marcos"
+
+Y bueno, podría escribir varias hojas enumeran
+do funciones de Edgar.
+Puedes pedirle la hora o simplemente te la da 
+con comentarios como:
+
+"Es tarde?"
+Edgar : "Son las 15 horas, has comido ya?"
+
+Edgar posee muchas más funciones que se
+deberían comentar mejor en un documento bien
+elaborado. Cuando tenga un rato lo redactaré para
+que quede para la posteridad :)
+
+Bien, espero que paseis unos buenos ratos
+divertidos con este programa que aunque cutre en 
+aspecto, es capaz de soltar de vez en cuando una 
+'perlita' que nos hará soltar más de una carcajada.
+
+
+El padre de Edgar 1
+
+Marcos López Merayo
+------------------------
+marcos.lopez@ya.com
+marcos.lopez@eresmas.net

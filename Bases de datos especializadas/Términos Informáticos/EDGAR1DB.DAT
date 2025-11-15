@@ -1,0 +1,480 @@
+Access;Gestor de bases de datos, realizado por Microsoft.
+Ada;Lenguaje de programacion estructurado, que permite varias caracteristicas orientadas a objetos. Es el lenguaje empleado por el Departamento de Defensa (DoD) de los Estados Unidos..
+ADC;Conversor de analogico a digital.
+Administrador;La persona que supervisa y controla el correcto funcionamiento de un sistema informatico.
+AGP;Accelerated Graphics Port;una nueva ranura de conexion para tarjetas graficas que existe en las placas base de los equipos Pentium II.
+Agujas (impresora "de agujas");ver matricial.
+AI;Siglas de Inteligencia Articial (Artificial Intelligence).
+AIX;Version del sistema operativo UNIX realizada por IBM para sus ordenadores.
+Alfanumerico;Conjunto de letras, numeros y otros simbolos, como signos de puntuacion o simbolos matematicos. Hace referencia a los caracteres del teclado y al conjunto de caracteres disponibles para las diferentes operaciones de transferencia de datos del ordenador.
+AMD;Conocido fabricante de procesadores, compatibles con la serie x86 de Intel (Advanced Micro Devices).
+AmiPro;Procesador de textos realizado por Lotus, actualmente mejorado y llamado WordPro.
+ANSI; American National Standards Institute. Organizacion establecida para adoptar y definir estandares de diversas disciplinas tecnicas.
+Antivirus;Aplicacion informatica encargada de detectar y eliminar virus.
+API;Interfaz de programacion de aplicaciones (Applications Programming Interface);una serie de funciones que estan disponibles para realizar programas para un cierto entorno
+Aplicacion informatica;Un programa de ordenador que se compra ya realizado y listo para usar. Las hay de muy diversos tipos, segun para que proposito se hayan disenyado;procesadores de texto, bases de datos, programas de contabilidad, de facturacion, etc.
+Apple;Casa fabricante de ordenadores, creadora de ordenadores como los Apple II, Lisa, Macintosh e iMac.
+Approach;Gestor de bases de datos, realizado por Lotus.
+ARC;Extension de ficheros comprimidos. El compresor correspondiente es ARC o PkARC.
+Archive;Archivo, en ingles.
+Archivo;Se suele usar como sinonimo de fichero. En el mundo de los compresores, es frecuente hacer una diferenciacion, diciendo que varios ficheros originales se comprimen y se empaquetan en un archivo comprimido.
+ARJ;Extension de ficheros comprimidos. El compresor correspondiente tambien se llama ARJ.
+Arranque;Se suele usar este nombre para referirse a la accion de poner un ordenador en funcionamiento. Se suele distinguir entre "arranque en frio" (cuando el ordenador estaba apagado) y "arranque en caliente" (cuando el ordenador estaba encendido y se "reinicializa" sin llegar a apagarlo fisicamente). En ingles es frecuente llamarlo "boot", y distinguir entre "cold boot" (frio) y "warm boot" (caliente) o "reset".
+Asm;ver Ensamblador.
+AT;Nombre que recibio el primer ordenador creado por IBM con procesador 80286. Asi, se suele hablar de ordendadores compatibles AT refiriendose a ordenadores con procesadores 80286 o superiores. // AT;Juego de ordenes para los modem, creado por la casa Hayes y hoy en dia considerado estandar.
+Athlon;Procesador realizado por AMD, equivalente a las gamas Pentium II / Pentium III, aunque con un rendimiento ligeramente superior a iguales velocidades de reloj.
+Atari;Casa fabricante de ordenadores y de software, hoy desaparecida, que desarrollo software de maquinas recreativas, ordenadores de 8 bits (como el 400 y el 800), de 16 bits (como la serie ST) y tuvo una pequenya incursion en el mercado de los compatibles PC.
+ATI;Conocido fabricante de tarjetas graficas.
+AutoCad;Conocido programa de CAD realizado por Autodesk.
+Autodesk;Casa desarrolladora de software, autora de aplicaciones como AutoCad, 3D Studio, Animator, AutoSketch, etc.
+AVI;Formato de video comprimido para ordenador, el estandar en Windows.
+BackUp;Copia de seguridad.
+Bajar;Es cada vez mas frecuente oir frases como "Me he bajado de la red una actualizacion para mi antivirus". La palabra "bajar" (en ingles "download") indica una transferencia de informacion desde un ordenador remoto (por ejemplo, un ordenador que haga de anfitrion en Internet o en otra red) hasta nuestro ordenador personal. La palabra "subir" (en ingles "upload") indica el envio de informacion de nuestro ordenador a un ordenador anfitrion en la red.
+Base de datos;Aplicacion informatica para manejar informacion en forma de "fichas";clientes, articulos, peliculas, etc. La mayoria de las bases de datos actuales permiten hacer listados, consultas, crear pantallas de visualizacion de datos, controlar el acceso de los usuarios, etc. Tambien es cada vez mas frecuente que las consultas se puedan hacer en un lenguaje estandar conocido como SQL.
+Basic;Lenguaje de programacion inicialmente disenyado para principiantes (Beginners All-purpose Symbolic Instruction Code).
+BAT;Extension de un fichero formado por un lote (batch) de ordenes de Dos.
+Baudios;Bits por segundo que en teoria es capaz de transmitir/recibir un modem o una conexion serie entre dos equipos, o entre un equipo y un dispositivo externo.
+BCD;Numero decimal codificado en binario (Binary Coded Decimal). Se usan estas siglas para referirse a una forma especial de codificar numeros decimales en binario, usando 4 bits para cada digito decimal, de modo que en un byte se pueden almacenar dos numeros decimales.
+Binario;sistema de numeracion en base 2, de modo que solo hay dos digitos posibles;el 0 y el 1. Para formar numeros "grandes", se usan varios digitos binarios, que representan cada una de las potencias de 2. Por ejemplo, el numero decimal 13 se representa 1101 (1x8 + 1x4 + 0x2 + 1x1).
+BIOS;Sistema de entrada/salida basica (Basic Input Output System). Suele tratarse de uno o varios chips de memoria ROM (habitualmente EPROMs) que contienen las rutinas basicas de entrada y salida, los primeros pasos que debe dar un ordenador al encenderse, la configuracion basica del sistema, etc.
+Bit;Es la unidad minima de informacion que puede almacenar y manejar un ordenador, equivalente a un 0 o un 1.
+Bitmap;(o mapa de bits). Un tipo de imagenes para ordenador, en las que se almacena informacion sobre los puntos que las componen y el color de cada punto (al contrario que en las imagenes vectoriales). Esto supone que al ampliar la imagen se pierde definicion, se ven "puntos gordos".
+BMP;Es la Extension que corresponde a un tipo de fichero grafico de mapa de bits (el estandar en Windows);BitMaP.
+Boot;ver arranque.
+Borland;Conocido fabricante de software, autor de lenguajes como Turbo Pascal, Turbo C++, Delphi, C++Builder, JBuilder, etc., y de aplicaciones como Paradox, Quattro Pro, etc. Actualmente ha cambiado de nombre y se llama Inprise.
+Bps;Bits por segundo;es la unidad en que se mide la velocidad de transferencia efectiva de un modem o de una conexion serie.
+BSD;Berkeley Software Distribution, de la Universidad de California en Berkeley, autora de una version de UNIX que lleva su mismo nombre.
+Buffer;memoria intermedia para el almacenamiento de datos temporales en la comunicacion entre un ordenador y un dispositivo externo (p.ej., una impresora). Cuando es un programa informatico el que hace la mision de almacenamiento intermedio para los datos que se envian a la impresora, a dicho programa se le suele llamar Spooler.
+Bug;error en un programa, que hace que en ciertas circunstancias pueda no comportarse correctamente.
+Byte;Es la unidad basica de informacion. En la practica, se puede considerar que un byte es la cantidad de espacio necesaria para almacenar una letra. Tiene multiplos como el Kilobyte, Megabyte, Gigabyte y Terabyte. Internamente, corresponde a 8 bits.
+C;Lenguaje de programacion estructurado, de proposito general, cuyo uso esta muy extendido.
+C++;Lenguaje de programacion orientado a objetos, basado en el lenguaje C.
+Cache;Es un tipo de memoria especial, mas rapida que la RAM normal (y mas cara), que se pone en el camino de los datos que van del procesador a la memoria RAM. Asi, toda informacion que va de la RAM al procesador se deja almacenada temporalmente en la memoria cache. A la hora de volver a leer informacion, se comprueba primero si esta en la memoria cache; si se encuentra alli, no hace falta ir a la RAM a buscar. En la practica, es muy frecuente realizar operaciones repetitivas o trabajar con datos repetitivos, lo que hace que poseer memoria cache ayude a acelerar el funcionamiento normal del ordenador. Hoy en dia es frecuente distinguir tambien la memoria cache de "primer nivel" y de "segundo nivel". La de primer nivel se encuentra dentro del propio procesador. La de segundo nivel se encuentra en la placa base, es de mayor tamanyo y algo mas lenta.
+CAD;Disenyo asistido por ordenador (Computer Aided Design).
+Caldera;Una de las casas especializadas en realizar distribuciones de Linux, en concreto la conocida como OpenLinux.
+CAM;Fabricacion asistida por ordenador (Computer Aided Manufacturing).
+Campo;En el mundo de las bases de datos, cada una de los datos que forman un registro (o ficha). Por ejemplo, en la ficha de cada proveedor tendriamos campos como su nombre, su direccion postal, su telefono, etc.
+Canon;Conocido fabricante de impresoras, ordenadores y otros tipos de hardware.
+CASE;Ingenieria de Software Asistida por Ordenador (Computer Aided Sofware Engineering).
+CCD;Dispositivo empleado para captar imagenes. En los scanners, suele tratarse de una fila de celulas que se desplaza, y en las camaras digitales de una matriz bidimensional. Cada celula esta formada por una fotocelula y un condensador. La carga que adquiere el condensador dependera de la cantidad de luz recibida por la fotocelula. (Charge Coupled Device).
+CD;Normalmente se refiere a Compact Disc. Otras abreviaturas relacionadas son;CD-ROM, CD-R y CD-RW. Un Compact Disc para ordenador sera capaz de almacenar cerca de 650 Mb de informacion.
+CD-R;Es un Compact Disc en el que se puede grabar informacion (Recordable), pero no borrar ni modificar la ya existente.
+CD-ROM;Es un Compact Disc pregrabado, del que se puede leer informacion pero no borrarla ni modificarla (Read Only Memory). Tambien se suele usar este mismo nombre para el aparato encargado de leer estos Compact Disc para ordenador (seria mas adecuado llamarlo "Lector de CD-ROM").
+CD-RW;Es un Compact Disc en el que se puede grabar informacion y tambien borrar o modificar la ya existente (Recordable-Writable).
+Celeron;Ver Pentium.
+Centronics;es una conexion estandar paralelo, usada para conectar un ordenador y una impresora. En el ordenador, suele ser un conector DB25 hembra.
+Chicago;Nombre en clave dado a Windows 95 durante su proceso de desarrollo.
+Chorro de tinta;ver inyeccion.
+CGA;Adaptador grafico a color (Color Graphics Adapter). Una de las primeras tarjetas graficas existentes en los PC y compatibles. Permitia resoluciones de 320x200 puntos con 4 colores y de 640x200 puntos en 2 colores.
+CGM;Es la Extension que corresponde a un tipo de fichero grafico vectorial;Computer Graphics Metafile.
+CISC;Un tipo de procesadores que reconoce un conjunto amplio de ordenes, pero que normalmente realiza los pasos indicados por esas ordenes con menor velocidad que un procesador RISC. Es el caso de la serie X86 de Intel.
+Clave;En el mundo de las bases de datos, se conoce como clave (en ingles Key) al valor de es capaz de distinguir un registro de otro de forma fiable, como podria ser el DNI o el Pasaporte para el caso de una persona (el nombre no seria una clave correcta, ya que si puede repetirse).
+Clipper; Compilador de lenguaje Xbase, desarrollado por Nantucket.
+Clonico;La expresion "clonico" se suele usar casi como sinonimo de "compatible", aunque llevado a un nivel todavia mas marcado;un ordenador que sea clonico de otro se parece tanto al original (al menos internamente) como permitan las leyes de copyright.
+Cluster;Un disco duro (y cualquier otro medio de almacenamiento que tenga acceso directo, no secuencial) esta dividido en "paginas" en las que podemos guardar informacion. Cada fichero puede ocupar una o mas paginas, pero cada pagina solo puede estar ocupada por un unico fichero.  El tamanyo de esas paginas (que son los clusters) influira en la cantidad de espacio desperdiciado en el disco;si hay paginas de tamanyo grande, y tenemos almacenados muchos ficheros de pequenyo tamanyo, se desperdiciara mucho espacio  (por ejemplo, con clusters de 32.768 bytes -32K-, un fichero de 200 bytes estaria desaprovechando los 32.568 bytes sobrantes del cluster, porque en ese mismo cluster no se guardara informacion de ningun otro fichero); con clusters pequenyos, se desperdicia menos espacio al almacenar ficheros, pero el indice de contenido del disco ocupara mas espacio, ya que hay mayor cantidad de clusters que controlar. En el sistema operativo MsDos (y Windows, hasta su version Windows 95), el tamanyo de los clusters es mayor cuanto mayor sea el disco duro, pudiendo llegar hasta los 32K de un disco duro de 2Gb (maximo tamanyo que es posible manejar "a la vez" en estos sistemas). En Windows 98 (y en la actualizacion de Windows 95 llamada OSR2) se puede optar por un tamanyo de cluster de 4K. En algunos sistemas Unix, el tamanyo de cluster puede ser fijado al instalar el sistema (por ejemplo, eligiendo entre 1, 2 o 4K).
+CMY;Descomposicion de colores en funcion de tres componentes basicos;azul claro (Cyan), violeta (Magenta) y amarillo (Yellow). Es la descomposicion habitual en las impresoras. Se trata de colores substractivos;cuanto mayor es la cantidad estos, mas se aproxima el color resultante al negro. Cada vez es mas frecuente anyadir mas colores base, buscando negros mas pros (CMYK, con negro -blacK) o mayor fidelidad en los colores intermedios (CcMmYK, con dos tonos adicionales de Cyan y Magenta).
+CMYK;Ver CMY.
+Cobol;Lenguaje de programacion enfocado a aplicaciones de gestion, hoy bastante en desuso (COmmon Businness-Oriented Language).
+Codigo Maquina;es el lenguaje en el que el ordenador es capaz de reconocer ordenes. Los programas que se creen en otros lenguajes deberan traducirse previamente a Codigo Maquina (compilarse) o el ordenador no podra entenderlos.
+COM;Es la extension que corresponde a un tipo de fichero ejecutable bajo MsDos. // COM;Nombre que reciben bajo DOS los puertos serie (para conectar modem o raton, por ejemplo). Lo habitual es que un ordenador tenga dos puertos de este tipo, que se designarian COM1 y COM2.
+Coma (fija y flotante);La expresion "coma fija" (en ingles fixed point) se usa para referirse a numeros con una cantidad de cifras decimales constante. Estos numeros son mas sencillos de manipular (pero menos utiles en la practica) que los numeros en "coma flotante" (en ingles, Floating Point), con un numero variable de cifras decimales.
+Commodore;Casa desarrolladora de hardware, hoy desaparecida, creadora de ordendores como el PET, Vic20, C16, C64, C128, Amiga y algunos compatibles PC (PC-10, PC-20, etc).
+Communicator;Ver Netscape.
+Compaq;Prestigioso fabricante de ordenadores.
+Compatible;Se dice que un ordenador es compatible con otro cuando puede utilizar todo el software disenyado para aquel (a veces incluso todo o parte del hardware). Hoy en dia es frecuente hablar de ordenadores "compatibles" refiriendose a ordenadores "compatibles PC", con procesadores de la gama x86.
+Compilador;Aplicacion informatica que se usa para crear programas en un cierto lenguaje de programacion. Convierte los programas creados en un lenguaje de programacion al lenguaje interno del ordenador (codigo maquina). En los compiladores, todo el programa original (fuente) se convierte a codigo maquina en bloque, y el programa resultante (programa ejecutable) se puede en otro ordenador usar sin necesidad de recurrir otra vez al compilador. En los interpretes, el programa fuente se convierte a codigo maquina, linea por linea, justo en el momento en que se pone a funcionar; no se crea ningun ejecutable, y por eso es necesario distribuir el programa fuente pero tambien el interprete que es capaz de entenderlo.
+Compresor;Aplicacion informatica que se encarga de "comprimir" la informacion para que ocupe menos espacio y asi facilitar su almacenamiento y su transporte. En la gran mayoria de los casos, esta compresion se realiza sin ningun tipo de perdida;los datos se pueden "descomprimir" para que vuelvan a quedar exactamente como estaban.
+Concurrente;Un ordenador realiza varias tareas de forma concurrente cuando dispone de un solo procesador, y dedica un breve espacio de tiempo a cada una de las tareas sucesivamente.
+Controlador;Se suele llamar controlador (driver, en ingles) al programa necesario para que un cierto programa o sistema operativo sea capaz de utilizar un dispositivo (por ejemplo, una impresora).
+Controladora;Se suele llamar "tarjeta controladora" a la tarjeta de circuito impreso que hay que instalar a un ordenador para que sea capaz de trabajar con un cierto dispositivo (por ejemplo, la controladora de disco curo, que hoy en dia suele venir integrada en la placa base de casi cualquier ordenador personal)..
+Coprocesador;Procesador auxiliar disenyado para descargar de trabajo al procesador principal. Cuando se usa solo la palabra "coprocesador", es habitual referirse a coprocesadores matematicos, encargados de realizar operaciones con numeros reales (con decimales, tambien llamados de "coma flotante"). La mayoria de los procesadores actuales ya llevan incorporado el coprocesador matematico (por ejemplo, toda la gama Pentium y la mayoria de los 486).
+CORBA;Common ORB Architecture, un estandar basado en ORB.
+Corel;Conocido fabricante de software, autor de paquetes como Corel Draw y que adquirio y desarrolla tambien otros como Ventura Publisher y WordPerfect.
+CPC;Gama de ordenadores desarrollados por Amstrad a mediados-finales de los anyos 80, basados en el procesador Z80. Tenian capacidad de realizar graficos con 16 colores (de una paleta de 27 colores) a 160x200 puntos, 4 colores en 320x200 y 2 colores en 640x480. Podian reproducir sonido stereo (3 canales). Se distribuian con monitor en color o en fosforo verde. Las 3 versiones mas difundidas fueron el CPC 464 (64k de memoria, unidad de cinta incorporada), CPC 664 (64k de memoria, unidad de disco de 3" y 178K por cara), CPC 6128 (128k de memoria, unidad de disco de 3" y 178K por cara).
+CP/M;Sistema operativo "profesional" creado por Digital Research, que fue bastante usado en ordenadores de 8 bits.
+Cps;caracteres por segundo;era la unidad en que se media la velocidad de impresion en las impresorasmatriciales.
+CPU;Unidad Central de Proceso (Central Processing Unit). Ver "procesador".
+Cracker;persona que intenta romper las protecciones de un cierto sistema informatico, normalmente con fines maliciosos (distinto de un "hacker", que procura profundizar en un cierto sistema para aprender de el).
+CRC;Codigo de redundancia ciclica, un codigo de comprobacion que se suele anyadir a los datos transmitidos en muchas comunicaciones, y que permiten detectar (hasta cierto punto) si se ha producido algun error en la transmision.
+Cyrix;Conocido fabricante de procesadores, compatibles con la serie X86 de Intel.
+DAC;Conversor de digital a analogico.
+Dbase;Gestor de bases de datos, realizado por Ashton Tate y posteriormente adquirido y mejorado por Borland.
+DBF;Es la extension que corresponde a un tipo de fichero de bases de datos,  originalmente utilizado por Dbase, pero que es frecuente encontrar en todo tipo de aplicaciones.
+DCE;Equipo de comunicacion de datos, nombre que suele recibir en una comunicacion el modem utilizado por un ordenador para conectarse con otro equipo (Data Communication Equipment).
+DD;Doble densidad (Double Density). En el caso de diskettes de 3 1/2", la expresion Doble Densidad hace referencia a que tienen una capacidad de 720 Kb (formateado; 1 Mb nominal). Este tipo de diskettes ya estan obsoletos. // DD;Disco duro (muy poco utilizado con este significado).
+Decimal;Sistema de numeracion en base 10, el que usamos habitualmente.
+Dell;Prestigioso fabricante de ordenadores, que no suele vender a traves de tiendas que actuen de intermediarias, sino directamente por telefono o Internet..
+DIMM;Tipo de modulos de memoria RAM (Dual In-Line Memory Module).
+Disco duro;Es un dispositivo de almacenamiento, que nacio como evolucion del diskette. Tiene una capacidad mucho mayor (hoy en dia es habitual que pasen de los 2.5Gb) y es mucho mas rapido, pero no esta disenyado para ser llevado de un sitio a otro, sino para permanecer dentro del ordenador (salvo algunas pocas excepciones, que si son portables).
+Disco fijo;Ver disco duro.
+Disco flexible;Ver diskette.
+Disco Winchester;Ver disco duro.
+Diskette (o floppy disk, o disquete);Es un dispositivo de almacenamiento de informacion. El diskette tiene poca capacidad (habitualmente 1.44 Mb), pero tiene la ventaja de poderse llevar de un sitio a otro (es extraible).
+Disquete;Ver Diskette.
+DMA;Acceso directo a memoria, un proceso que permite a un dispositivo (externo o interno) transferir datos a la memoria del ordenador a lata velocidad, sin que estos datos pasen por el procesador (Direct Memory Access).
+DNS;Servidor de nombres de dominio (Domain Name Server).
+DOC;Extension de los ficheros de creados con Word y otros procesadores de texto (abreviatura de DOCument).
+DOS;Sistema operativo de disco (Disk Operating System). Se trata de un sistema operativo monousuario y monotarea. Hay diversas versiones, con distintos nombres segun la casa que lo desarrolle;MsDos (Microsoft), DrDos (Digital Research), PcDos (IBM), Novell Dos (Novell), etc.
+Dot Pich;Es la separacion entre los puntos basicos rojo, verde o azul que se iluminan en un monitor en color para representar un punto de la imagen.Valores frecuentes son 0.28 y 0.26mm de separacion.
+Download;ver Bajar.
+DPI;Puntos por pulgada (Dots Per Inch), ver PPP.
+DPMI;Una serie de funciones que permitian a programas de DOS trabajar en modo protegido, aprovechando toda la memoria existente (Dos Protected Mode Interface).
+DRAM;Memoria RAM dinamica.
+Driver;ver controlador.
+DSP;Procesador digital de senyal (Digital Signal Processor).
+DSTN;Ver Dual Scan (Dualscan SuperTwist Nematic).
+Dual Scan;Tipo de pantalla LCD en color para ordenadores portatiles. Ofrece menos contraste y peor angulo de vision que las TFT, a cambio de un precio inferior.
+DTE;Equipo terminal de datos, nombre que suele recibir en una comunicacion el ordenador que recibe o envia los datos (Data Terminal Equipment).
+DVD;Disco digital mejorado, con una capacidad muy superior al CD. (Digital Video Disk o Digital Versatile Disk). Al igual que en los CD, hay distintas variantes segun si solo puede leer, leer y escribir, etc.;DVD-ROM, DVD-RAM, etc. La capacidad de un DVD va desde los 4,7 Gb (una cara, una capa) hasta los 17 Gb (doble cara, doble capa). En el caso de los DVD grabables, esta capacidad puede disminuir hasta los 2,6 Gb por el mayor tamanyo de los "surcos".
+DX;Variante de los procesadores 80386 y 80486.
+DX2;Variante de los procesadores 80486.
+DX4;Variante de los procesadores 80486.
+ED;Extra densidad (Extra Density). En el caso de diskettes de 3 1/2", la expresion Extra Densidad hace referencia a que tienen una capacidad de 2.88 Mb (formateado; poco frecuente).
+EDO RAM;Un tipo de memoria RAM frecuente en los ultimos 486 y primeros Pentium (Extended Data Out RAM), posterior a FastPage y anterior a SDRAM.
+EEPROM;Memoria ROM borrable y programable electricamente (Electrically Erasable Programmable ROM).
+EGA;Adaptador grafico mejorado (Enhanced Graphics Adapter). Tarjeta grafica de ordenadores PC y compatibles, evolucion de la CGA, que permitia trabajar tambien a 16 colores con 320x200, 640x200 y 640x350 puntos.
+EIDE;Ver IDE.
+Eiffel;Lenguaje de programacion orientado a objetos.
+EISA;Tipo de arquitectura estandar de placas base, con ranuras de ampliacion de 32 bits, basada en ISA y hoy en dia abandonada (Enhanced ISA).
+Ejecutable;Un programa que se puede "ejecutar" o usar "por si solo", sin que haga falta tener una cierta aplicacion informatica desde la que manejarlo (para mas detalles, ver Compilador).
+Ejecutar;En informatica, la palabra "ejecutar" (en ingles RUN) equivale a poner un programa en funcionamiento.
+E-mail;correo electronico (electronic mail). Mensajes (normalmente privados) enviados a traves de una red de ordenadores.
+EMS;Ver memoria expandida.
+Ensamblador;Lenguaje de programacion bajo nivel, muy cercano al codigo maquina. Su sintaxis depende por completo del tipo de ordenador que se este usando.
+EPROM;Memoria ROM borrable y programable (Erasable Programmable ROM). Se borran con luz ultravioleta (una exposicion de unos 15-20 minutos).
+Epson;Conocido fabricante de impresoras, ordenadores y otros tipos de hardware.
+E/S;Entrada/salida (se suelen usar las siglas en ingles I/O).
+Excel;Aplicacion de hoja de calculo realizada por Microsoft.
+EXE;Es la extension que corresponde a un tipo de fichero ejecutable bajo MsDos, OS/2  y/o Windows.
+Expandida (memoria);Una de las convenciones que surgieron sobre como acceder a la memoria por encima de 1 Mb desde el sistema operativo DOS, algo para lo que inicialmente no estaba disenyado. Era incompatible con la otra propuesta de estandar, la memoria extendida, que fue la mas utilizada. La especificacion recibio el nombre de LIM/EMS (LIM es la abreviatura de las casas de software que la propusieron;Lotus-Intel-Microsoft)..
+Extendida (memoria);Una de las convenciones que surgieron sobre como acceder a la memoria por encima de 1 Mb desde el sistema operativo DOS, algo para lo que inicialmente no estaba disenyado. Era incompatible con la otra propuesta de estandar, la memoria expandida, que fue menos utilizada. La especificacion recibio el nombre de XMS.
+Extension;En sistemas operativos como MsDos y Windows, es frecuente que el nombre de un fichero este formado por dos partes, separadas por un punto. La primera parte (limitada en Dos a 8 letras de longitud) es el nombre propiamente dicho; la segunda parte (hasta 3 letras, en Dos) es la extension, que suele indicar el tipo de informacion que guarda ese fichero.
+FAQ;Recopilacion de preguntas frecuentes sobre un cierto tema y sus respuestas (Frequently Asked Questions).
+Fast Page RAM;Tipo de memoria RAM, anterior a la EDO, que era habitual en los primeros 486.
+FAT;Tabla de situacion de ficheros (File Allocation Table), algo asi como un indice de que datos hay en una unidad de disco, y donde estan situados dichos datos.
+Fax;Aparato disenyado para enviar y recibir imagenes en blanco y negro a traves de la linea telefonica. El nombre es una abreviatura de FacSimil.
+Fichero;Conjunto de informacion que se almacena para consultarse o utilizarse posteriormente. En un ordenador, normalmente cada fichero debera tener un nombre con el que hacer referencia a el.
+Fija (coma);ver Coma.
+File;Fichero, en ingles.
+Firewire;Nombre comercial de IEEE 1394, un nuevo tipo de conexion digital, que permite velocidades a partir de 100 Mbps (millones de bits por segundo), y se pretende que llegue hasta los 400 MBps (millones de bytes por segundo).
+Firmware;Es el "software que esta dentro del hardware". Se refiere a los programas grabados en memorias ROM.
+Flotante (coma);ver Coma.
+Floppy;Ver diskette.
+Forth;Lenguaje de programacion.
+Fortran;Lenguaje de programacion, orientado a ingenieria (FORmula TRANslator).
+FoxPro;Gestor de bases de datos, realizado por Microsoft.
+FPU;Coprocesador matematico (Floating Point Unit).
+FreeBSD;Sistema operativo UNIX de libre distribucion.
+Freeware;Aplicacion informatica que se puede copiar y distribuir libremente, y cuyo uso es gratis.
+FrontPage;Programa de creacion de paginas Web, desarrollado por Microsoft.
+FTP;Protocolo estandar en Internet para transferencia de ficheros (File Transfer Protocol). Tambien se suele usar este nombre para designar los programas de envio y recepcion de ficheros que se apoyan en este protocolo.
+Fuente;Programa escrito en un lenguaje de programacion, antes de convertirse a ejecutable (ver Compilador) // Fuente;Tipo de letra (nomenclatura empleada por Windows).
+Fujitsu;Conocido fabricante de ordenadores, impresoras, discos duros y otros tipos de hardware.
+Gb;Abreviatura de GigaByte.
+GEM;Entorno grafico desarrollado por Digital Research (Graphic Environment Manager). En el mundo de los compatibles PC fue desbancado por Windows, que es el estandar actual.
+GIF;Es la Extension que corresponde a un tipo de fichero grafico de mapa de bits (Graphics Interchange Format).
+GigaByte;Multiplo del byte;un gigabyte son 1.024 MegaBytes, cerca de 1.000 millones de bytes.
+GMT;Hora media en Greenwich (Greenwich Mean Time). No es un concepto exclusivo de informatica, pero aparece en la configuracion horaria de muchos programas y sistemas operativos. Por ejemplo, la hora en Madrid es GMT+1.
+GUI;Interfaz grafica de usuario (Graphical User Interface).
+Hacker;Entusiasta de la informatica. La palabra se suele usar para indicar tambien un cierto intrusismo;un hacker es una persona que siempre esta deseando aprender y superar nuevos retos, entre los que se pueden encontrar el acceder a un cierto sistema teoricamente cerrado. Pero esto no quiere decir que se haga con malicia, sino por el propio reto en si. Cuando se trata de alguien con intenciones maliciosas se suele emplear la palabra "cracker".
+Hardware;La parte "que se puede tocar" de un ordenador;caja (y todo su contenido), teclado, pantalla, etc.
+Hayes;conocido fabricante de modems, el creador de los comandos AT.
+HD;Disco duro (Hard Disk) // HD;Alta densidad (High Density). En el caso de diskettes de 3 1/2", la expresion Alta Densidad hace referencia a que tienen una capacidad de 1.44 Mb (formatedo; 2 Mb nominales).
+Hercules;Fabricante de tarjetas graficas para ordenador. Frecuentemente se usa la palabra "Hercules" para hacer referencia a la primera tarjeta que creo este fabricante para los ordenadores IBM PC, que era capaz de mostrar 720x348 puntos en blanco y negro.
+Hewlett-Packard;Prestigioso fabricante de hardware de casi todo tipo;ordenadores, impresoras laser y de inyeccion, plotters, etc.
+Hexadecimal; sistema de numeracion en base 16. Se emplean las cifras del 0 al 9 y las letras A a F (A=10, B=11, C=12, D=13, E=14, F=15), y cada posicion de un numero indica una potencia de 16. Por ejemplo, el numero decimal 270 convertido a octal quedaria 10E (1x256 + 0x16 + 14x1).
+Hipertexto;En un texto clasico, la estructura es totalmente lineal;se lee de principio a fin; en un hipertexto, se pretende poder romper esa estructura lineal, mediante "enlaces" (tambien llamados "Vinculos" o "Hipervinculos") que permiten saltar a otros temas relacionados, donde encontrar informacion ampliada. Las paginas Web de Internet (como esta) son un ejemplo claro de Hipertexto
+Hipervinculo;ver Hipertexto.
+HLP;Extension de los ficheros de ayuda (HeLP).
+Hoja de calculo;Aplicacion informatica que permite manipular datos numericos;hacer todo tipo de operaciones con ellos, mostrar graficos, etc.
+HP;Abreviatura de Hewlett-Packard.
+HPGL;Lenguaje grafico disenyado por Hewlett-Packard para sus plotters (Hewlett-Packard Graphics Language).
+HSP;Nombre que reciben los modems que no tienen procesador digital de senyal (DSP), sino que esta mision es realizada por el ordenador al que estan conectados. Por ello, son ser mas baratos, pero tambien suelen dar un rendimiento inferior y no funcionar con cualquier sistema operativo porque necesitan un controlador especifico (Host Signal Processor).
+HTM;Extension bajo MsDos de los ficheros de tipo HTML.
+HTML;HyperText Markup Language;el lenguaje de descripcion de paginas habitual en Internet.
+HTTP;El protocolo usado en las paginas del WWW (HyperText Transfer Protocol).
+IA;Siglas en espanyol de Inteligencia Articial.
+IBM;Importante fabricante de ordenadores y de software (International Business Machines).
+IDE;Uno de los estandares en conexion de discos duros y dispositivos similares. Existe una variante mejorada, mas rapida, llamada EIDE. // IDE;Entorno integrado de desarrollo;un entorno desde el que se pueden editar programas, compilarlos y depurarlos (Integrated Development Environment).
+IEEE;Instituto de Ingenieros Electricos y Electronicos, una institucion americana responsable de la creacion de una gran cantidad de estandares en electronica e informatica.
+IEEE 1394;Ver Firewire.
+IIOP;Internet InterORB Protocol, un protcolo de comunicacion entre ORBs en Internet.
+iMac;Ordenador desarrollado por Apple en 1998, que inicialmente estaba equipado con un procesador PowerPC G3 a 233 MHz, 32 Mb de memoria SDRAM, disco duro de 4 Gb, CdRom de 24x, monitor de 15 pulgadas, modem de 56 Kbps, etc.
+Impresora;Dispositivo encargado de volcar a papel la informacion que maneja un ordenador. Hoy en dia las mas habituales son las de inyeccion, las laser y las matriciales, si bien existen otros muchos tipos, como las de margarita, las termicas, las de sublimacion, etc.
+Inkjet;ver inyeccion.
+Inprise;Ver Borland.
+Integrado. Ver suite.
+Intel;Conocido fabricante de procesadores, creador de la gama X86.
+Interface;Ver Interfaz.
+Interfaz;Conexion de un ordenador con el exterior, o entre dos dispositivos.
+Internet;Red de ordenadores a nivel mundial. Ofrece distintos servicios, como el envio y recepcion de correo electronico (e-mail), la posibilidad de ver informacion en las paginas Web, de participar en foros de discusion (News), de enviar y recibir ficheros mediante FTP, de charlar en tiempo real mediante IRC, etc.
+Interprete;Ver compilador.
+Interrupcion;Cuando un procesador esta esperando recibir informacion de un cierto dispositivo externo, tiene dos formas basicas de hacerlo;mirando continuamente si hay informacion disponible (modo de espera o modo "polling"), o dejando la posibilidad de que sea el dispositivo el que avise cuando la tenga preparada (modo interrupcion). Suele haber varios (pocos) canales de interrupcion, asi como distintos niveles de prioridades.
+Inyeccion;(o inkjet, o de "chorro de tinta") tipo de impresora cuyo funcionamiento se basa en disparar sobre el papel minusculas gotas de tinta, que forman las imagenes o el texto.
+I/O;Entrada/salida (Input/Output).
+IP;Ver TCP/IP.
+IP Address;Direccion de un ordenador dentro de una red con protocolo TCP/IP (4 numeros de 0 a 255, separados por puntos, ej;194.179.5.205).
+IR;Abreviatura de Infrarrojo (Infra Red).
+IRC;Charla (escrita, no por viva voz) en tiempo real entre varias personas en Internet (Internet Relay Chat).
+IRQ;Solicitud de interrupcion (Interrupt ReQuest).
+ISA;Tipo de arquitectura estandar de placas base, con ranuras de ampliacion de 8 y 16 bits (Industry Standard Architectecture).
+ISDN;Red Digital de Servicios Integrados o RDSI (Integrated Services Digital Network).
+ISP;Proveedor de servicios de Internet (Internet Services Provider).
+i386;Otro nombre dado al procesador 80386.
+i486;Otro nombre dado al procesador 80486.
+Java;Lenguaje de programacion orientado a objetos, basado en C++, cada dia mas extendido, especialmente a traves de Internet. Pretende ser un lenguaje totalmente portable entre distintos ordenadores, gracias a que no se compila a codigo maquina,sino a un lenguaje intermedio que luego es interpretado por la "maquina virtual Java", que si es especifica de cada plataforma. Esto le da una velocidad ligeramente inferior a la de los programas realizados en otros lenguajes compilados, como C++, a cambio de una mayor portabilidad (aparte de las mejoras que el lenguaje en si incorpora sobre otros como C++).
+JAZ;Unidad de almacenamiento parecida a un diskette, pero con una capacidad de 1 Gb y de 2 Gb (segun modelo) creada por Iomega.
+JDK;Java Development Kit, un conjunto de aplicaciones que se utiliza para crear aplicaciones en lenguaje Java.
+JFC;Java Foundation Classes, una serie de funciones ya creadas para que se puedan utilizar al crear programas en lenguaje Java.
+Joystick;Palanca de control utilizada en muchos juegos.
+JPEG, JPG;Es la Extension que corresponde a un tipo de fichero grafico de mapa de bits. Es un formato comprimido, que, al contrario que la mayoria, pierde definicion al comprimir;se puede indicar la cantidad de compresion que se desea, pero cuanto mas comprimamos, mayor perdida de calidad tiene la imagen. Para fotografias digitalizadas con 640x480 puntos o mas, un nivel de compresion entre 15 y 25 suele ser suficiente para reducir mucho el espacio ocupado por la imagen, pero a la vez que la perdida de calidad no sea muy apreciable. (Joint Picture Expert Group).
+JVM;Maquina Virtual Java (Java Virtual Machine).
+K;Abreviatura de KiloByte.
+Kb;Abreviatura de KiloByte.
+Kbps;Miles de bps.
+Kernel;nucleo de un sistema operativo.
+KiloByte;Multiplo del byte;un kilobyte son 1.024 bytes.
+K5;Procesador realizado por AMD, intermedio entre el 486 y el Pentium de Intel.
+K6;Procesador realizado por AMD, similar al Pentium creado por Intel y compatible con las instrucciones de la familia 80x86. Existe una version mejorada, llamada K6-2, que incorpora una serie de instrucciones nuevas, destinadas a mejorar el rendimiento en 3D. La ultima version de esta gama ha sido el K6-3.
+K7;Procesador realizado por AMD, posterior a la gama K6, y cuyo nombre definitivo en el mercado ha sido Athlon.
+LAN;Red de area local (Local Area Network).
+Laptop;Ordenador portatil en el que se levanta una tapa que alberga la pantalla, y en la parte inferior queda el teclado y la circuiteria interna
+Laser;tipo de impresora se suele basar en un mecanismo muy similar al de las fotocopiadoras. La base de su funcionamiento suele ser;un elemento fotoconductor (que conduce la electricidad cuando recibe la luz, normalmente llamado "tambor") se carga electricamente para que pueda atraer a la tinta en polvo (toner). Mediante espejos y lentes (en las fotocopiadoras convencionales) o mediante un laser (o una barra de LEDs, en ciertas impresoras y/o copiadoras digitales) se descarga el fotoconductor en ciertas zonas, conformando lo que sera la imagen a imprimir (una imagen "latente", no visible, formada por cargas electricas). En estas zonas cargadas del fotoconductor se deposita la tinta en polvo (toner), desde donde despues se transfiere al papel, en el que se fija mediante calor y/o presion.
+LCD;Pantalla de cristal liquido (Liquid Crystal Display).
+LED;Diodo emisor de luz (Light Emitting Diode).
+Lenguaje de programacion;ver Programa.
+Lenguaje maquina;ver Codigo Maquina.
+LILO;Cargador de Linux (LInux LOader). Es un programa que se instala en el MBR del disco duro y que permite elegir entre disintos sistemas operativos que se encuentren instalados en distintas particiones del disco duro.
+Linux;Version de libre distribucion (gratis) del sistema operativo Unix, desarollada por Linus Torvalds, con contribuciones de programadores de todo el mundo.
+LISP;Lenguaje de programacion muy usado en Inteligencia Articial.
+Logo;Lenguaje de programacion, que durante un tiempo se considero el mas adecuado para introducir en la informatica a ninyos de corta edad.
+Lotus;Conocida casa de software, creadora de programas como 1-2-3, Ami Pro, WordPro, Freelance, Notes, etc.
+LPT;nombre que reciben bajo DOS los puertos paralelo (para conectar impresoras). Lo habitual es que un ordenador tenga un puerto de este tipo, que se designaria LPT1.
+LZH;Extension de ficheros comprimidos. El compresor correspondiente es LHA o LHARC.
+Mac:Ver Macintosh.
+MacOS;Sistema operativo de los ordenadores Apple Macintosh.
+Macintosh;Conocida gama de ordenadores realizada por Apple, inicialmente basada en procesadores de la serie 68000 de Motorola, y hoy en dia en procesadores PowerPC.
+Mainboard;En ingles, placa base.
+Margarita;tipo de impresora cuyo funcionamiento se basa en el mismo sistema que el de las maquinas de escribir;unos "petalos" (de ahi el nombre) tienen dibujados las letras y los simbolos. Estos petalos golpean una cinta entintada, lo que hace que aparezca el texto sobre el papel. Hoy en dia estan en desuso porque son lentas, ruidosas y no permiten dibujar ni emplear distintos tipos y tamanyos de letra (salvo que se cambie toda la margarita).
+Matricial;(o "de agujas") tipo de impresora cuyo funcionamiento se basa en unas agujas que golpean una cinta entintada, lo que hace que aparezcan sobre el papel unos puntos, que forman las imagenes o el texto.
+Matrox;Conocido fabricante de tarjetas graficas. Tiene gamas muy conocidas, como la Millenium, Mystique y la Productiva.
+Mb;Abreviatura de MegaByte.
+Mbps;Millones de bps.
+MBR;Master Boot Record, sector de arranque del disco duro.
+MCA;Abreviatura de Microchannel Architecture.
+MCGA;Adaptador grafico multicolor (MultiColor Graphics Adapter). Tarjeta grafica de ordenadores PC y compatibles, evolucion de la EGA, que permitia trabajar tambien a 256 colores con 320x200 puntos, y en blanco y negro con 640x480 puntos.
+MDB;Extension de los ficheros creados con Access.
+Megabyte;Multiplo del byte;un megabyte son 1.024 KiloBytes, cerca de un millon de bytes.
+Mendocino;Ver Pentium.
+MFlops;Millones de operaciones en coma flotante (con numeros reales) por segundo, una medida de velocidad de ordenadores.
+MFM;Sistema utilizado por muchos de los primeros discos duros disponibles en equipos compatibles PC y XT.
+MHz;Megahertzios, es una medida de frecuencia (numero de veces que ocurre algo en un segundo). En el caso de los ordenadores, un equipo a 200 MHz sera capaz de dar 200 millones de pasos por segundo. En la velocidad real de trabajo no solo influyen los MHz, sino tambien la arquitectura del procesador (y el resto de los componentes); por ejemplo, dentro de la serie X86, un Pentium a 60 MHz era cerca del doble de rapido que un 486 a 66 MHz.
+Micro;en informatica se suele usar como abreviatura de Microprocesador.
+Microchannel (o MCA);Tipo de arquitectura estandar de placas base,  basada en ISA, con ranuras de ampliacion de 32 bits, desarrollada por IBM y hoy en dia abandonada.
+Microprocesador;ver Procesador.
+Microsoft;Casa desarrolladora de software, creadora de sistemas operativos como MsDos y Windows, asi como de aplicaciones informaticas de todo tipo.
+MID;Extension que corresponde a un tipo de ficheros de sonido (habitual en Windows).
+MIDI;Conexion normalizada para instrumentos musicales (Musical Instruments Device Interface).
+Minix;Version del sistema operativo UNIX desarrollada con fines educativos por el profesor Andrew Tannenbaum.
+MIPS;Millones de instrucciones por segundo, una medida de velocidad de ordenadores // MIPS;familia de procesadores de tipo RISC, que equipan muchas estaciones de trabajo, como las de Silicon Graphics.
+MMX;MultiMedia eXtensions, conjunto de nuevas instrucciones anyadidas a la gama alta de los procesadores Pentium, con la intencion de acelerar las operaciones mas frecuentes en multimedia.
+MOD;Extension que corresponde a un tipo de ficheros de sonido.
+Modem;Aparato que permite a un ordenador enviar y recibir informacion por telefono (MOdulador-DEModulador).
+Modula-2;Lenguaje de programacion estructurado y modular.
+Monitor;ver pantalla.
+Motorola;Conocido fabricante de procesadores, autor de la serie 68000 que equipaba los primeros ordenadores Macintosh de Apple, y coautor de los PowerPC que equipan los PowerMac.
+Mouse;raton, en ingles.
+MPEG;Formato de video comprimido para ordenador (Motion Pictures Expert Group).
+MP3;Formato de audio comprimido para ordenador, un subformato del MPEG (MPEG-1 Layer 3).
+ms;milisegundos (milesimas de segundo), unidad usada para medir tiempos de acceso.
+MsDos;Ver DOS.
+MSX;Gama de ordenadores desarrollados por diversas casas (como Sony, Philips, Toshiba, Spectravideo, etc.) a mediados-finales de los anyos 80, siguiendo un estandar comun. Estaban basados en el procesador Z80. Tenian capacidad de realizar graficos con 16 colores, sonido estereo, memoria entre 32 y 128K. Posteriormente surgio una version mejorada, denominada MSX2.
+Multimedia;Se tiende cada vez mas a que los ordenadores no sean solo capaces de manejar informacion en forma de texto, sino tambien imagenes de gran tamanyo y colorido, o incluso sonidos y secuencias de video. Esta capacidad es lo que se conoce como Multimedia.
+Multitarea;Es cuando un ordenador es capaz de realizar mas de una tarea a la vez. Puede ser en paralelo (si tiene mas de un procesador) o concurrente (si solo tiene uno).
+Netscape;Casa desarrolladora de software, creadora de programas como el conocido navegador de internet Navigator, que ahora se distribuye junto con otras utilidades (como Messenger, para el correo electronico, Collabra para los grupos de noticias y Composer para la creacion de paginas Web) bajo el nombre de Communicator.
+News;Uno de los servicios que ofrece Internet. Se trata de un foro de discusion abierta, formado por distintos grupos de noticias tematicos, en los que cualquiera puede escribir mensajes publicos y leer los existentes.
+NFS;Sistema de archivos de red (Network file System), un sistema de archivos que permite a un ordenador "montar" directorios y sistemas de archivo remotos, de otro(s) ordenador(es) de la red.
+NMI;Interrupcion no enmascarable. Es la entrada de una interrupcion que tiene la maxima prioridad y que siempre es aceptada por el procesador.
+Nodo;un ordenador en una red.
+Notebook;ordenador portatil (laptop) cuyo tamanyo cerrado es similar a un A4.
+ns;nanosegundos (milesimas de millonesimas de segundo), unidad usada para medir tiempos de acceso.
+NT;Version de Windows disenyada para entornos profesionales.
+Number Nine;Conocido fabricante de tarjetas graficas.
+Oberon;Lenguaje de programacion orientado a objetos.
+Objective C;Lenguaje de programacion orientado a objetos basado en el lenguaje C.
+Oce;Conocido fabricante de plotters, copiadoras e impresoras.
+OCR;Aplicacion informatica que trata de convertir a texto las imagenes adquiridas con un scanner (reconocimiento optico de caracteres).
+Octal;sistema de numeracion en base 8. Se emplean las cifras del 0 al 7, y cada posicion de un numero indica una potencia de 8. Por ejemplo, el numero decimal 101 convertido a octal quedaria 145 (1x64 + 4x8 + 5x1).
+Office;Suite realizada por Microsoft, que incluye aplicaciones como Word, Excel, Outlook (y opcionalmente otras como Access o Publisher).
+Olivetti;Conocido fabricante de ordenadores, impresoras, maquinas de escribir, etc.
+OOP;Programacion Orientada a Objetos o POO (Object Oriented Programming).
+OpenLinux;Version del sistema operativo Linux, recopilada por Caldera.
+ORB;Agente de Peticion de Objeto (Object Request Broker). La idea basica es la siguiente;en una aplicacion cliente/servidor, los servicios a los que accedemos pueden no estar disponibles siempre en un mismo servidor, de modo que estos servicios se solicitan a un agente, que es el que realmente conecta a la aplicacion cliente con la aplicacion servidor, sin que la aplicacion cliente necesite saber donde estan ubicados fisicamente estos servicios.
+Organizer;Organizador personal realizado por Lotus.
+OS;Abreviatura de Operating Sistem (Sistema Operativo).
+OSI;Modelo para la interconexion de sistemas abiertos (Open Systems Interconnection). Es un modelo teorico de conexion de sistemas, estructurado en 7 capas (fisica, enlace, red, transporte, sesion, presentacion y aplicacion).
+OS/2;Sistema operativo multitarea de IBM creado para ordenadores PC, hoy en dia en desuso.
+OS/400;Sistema operativo multitarea y multiusuario creado por IBM para sus sistemas AS/400.
+Outlook;Organizador personal realizado por Microsoft.  
+Palmtop;ordenador portatil (laptop) cuyo tamanyo cerrado es similar al de la palma de la mano.
+Pantalla;La pantalla (o monitor) es el dispositivo encargado de mostrar la informacion mientras trabajamos con el ordenador. Hoy en dia es habitual que las pantallas sean de color, aunque todavia se pueden encontrar pantallas monocromas;de fosforo verde, ambar o blanco. Su tamanyo se suele indicar en pulgadas; por ejemplo una pantalla de 15" tiene una diagonal de 15 · 2,54 = 38 cm.
+Paradox;Gestor de bases de datos, realizado por Borland.
+Paralelo;En una comunicacion paralelo, los bits de informacion que forman un byte se envian todos a la vez, por hilos distintos. Esto permite mayor velocidad que en una conexion serie, aunque a veces es a cambio de que la conexion sea unidireccional, o bidireccional mas rapida en un sentido que en el otro. // Paralelo;se habla de procesamiento paralelo cuando un ordenador es capaz de realizar mas de una tarea a la vez gracias a que posee varios procesadores entre los que repartir el trabajo.
+Pascal;Lenguaje de programacion estructurado, de proposito general.
+Password;Clave de acceso o contrasenya necesario para acceder a un determinado sistema.
+Patch;"Parche" que se aplica a un programa, normalmente con la intencion de corregir algun "bug".
+PC;Ordenador personal (Personal Computer). Esta abreviatura proviene del IBM Personal Computer, creado por la casa IBM a principios de los 80. El PC original trabajaba con un procesador8086 a 4,77 Mhz y 64 Kb de memoria. Desde entonces es frecuente hablar de los "PC" como los ordenadores compatibles con el IBM PC original (capaces de usar cualquier programa que fuera disenyado para aquel), basados en procesadores de la serie X86 de Intel.
+PCB;Placa de circuito impreso (Printed Circuit Board).
+PCI;Tipo de arquitectura estandar de placas base, con ranuras de ampliacion de 32 o 64 bits, usada en los equipos con procesador Pentium y superiores (y algunos 486). Es la abreviatura de Peripheral Component Interconnection.
+PCMCIA;Estandar en ranuras de ampliacion para ordenadores portatiles (Personal Computer Memory Card International Association).
+PCX;Es la Extension que corresponde a un tipo de fichero grafico de mapa de bits.
+PDA. Ordenador portatil de muy reducido tamanyo, disenyado como terminal de aquisicion de datos o como organizador personal (Personal Digital Assistant, asistente digital personal).
+Pentium;Procesador de 32 bits realizado por Intel, evolucion del 80486 (y compatible con el y con toda la familia x86), con velocidades a partir de 60 MHz (hasta 233 Mhz en su version "normal", y por encima de 400 Mhz en versiones mejoradas como los Pentium II). Variantes;el Pentium MMX reconoce una serie de instrucciones nuevas, pensadas para acelerar las operaciones mas frecuentes en multimedia, y tenia velocidades de 133 a 233 MHz; el Pentium Pro es una version orientada al mercado mas profesional, y existen placas base que permiten montar varios de estos procesadores trabajando a la vez (en paralelo); el Pentium II es una mejora del MMX, que se "pincha" en una ranura especial (Slot 1) y tiene velocidades de 233 a 450 MHz; el Celeron es una variante mas barata del Pentium II, que no incorpora cache de primer nivel; el Mendocino es una variante mejorada del Celeron, que incorpora 128k de cache de primer nivel.
+PerfectOffice;Suite realizada por Novell, que incluye aplicaciones como WordPerfect y Quattro Pro.
+Periferico;Dispositivo auxiliar que se puede conectar a un ordenador (por ejemplo;una impresora).
+Pixel;Es el elemento de menor tamanyo que forma una imagen ("un punto"). Abreviatura de Picture Element.
+Placa base;Placa de circuito impreso en la que "se pinchan" la mayoria de los demas componentes de un ordenador.
+Plotter;un tipo de impresora disenyado especialmente para trazar imagenes lineales. Los primeros usaban plumillas, pero hoy en dia van siendo cada vez mas frecuentes los de inyeccion, que tienen mayor facilidad para realizar dibujos no lineales y en multiples colores.
+Plug and Play;Es una expresion que se podria traducir por "enchufar y listo". Hace referencia a sistemas operativos que sean capaces de detectar automaticamente los dispositivos que se les instalen (normalmente, los propios dispositivos tambien deberan cumplir ciertas condiciones).
+PNG;Es la Extension que corresponde a un tipo de fichero grafico de mapa de bits (Portable Network Graphics).
+PNP;Abreviatura de Plug and Play.
+Polling;Ver Interrupcion.
+POO;Programacion Orientada a Objetos, en espanyol (es mas frecuente ver las siglas en ingles;OOP).
+Postscript;Un lenguaje grafico de descripcion de paginas, muy utilizado en impresoras de gama media y alta.
+PowerMac;Ordenadores Macintosh de Apple de ultima generacion, basados en procesadores PowerPC.
+Powerpoint;Aplicacion para crear presentaciones, realizada por Microsoft.
+PPM;Paginas por minuto;es la unidad en que se mide la velocidad de impresion de las impresoras laser y en las de inyeccion de tinta.
+PPP;Puntos por pulgada;una forma muy habitual de medir la resolucion (nivel de detalle) con que puede trabajar una impresora o un scanner  (en ingles, DPI) // PPP;Un protocolo estandar en Internet para conexiones a traves del puerto serie (Point-to-Point Protocol). Es mas reciente y robusto que SLIP.
+Procesador;el "cerebro" del ordenador. Su velocidad de trabajo se mide en Megahertzios (MHz) y su capacidad de proceso por el numero de bits que es capaz de manejar a la vez (por ejemplo;32 bits, o 64 bits)..
+Procesador de texto. Un tipo de aplicacion informatica que permite escribir textos de todo tipo, desde cartas hasta libros. Hoy en dia es frecuente que permitan usar distintos tipos de letra, incluir imagenes y tablas de datos, escribir en columnas, anyadir ecuaciones matematicas, etc.
+Programa;un conjunto de ordenes para un ordenador. Cuando se trata de un programa ya terminado que se compra, se suele hablar de una Aplicacion Informatica. Los programas se deben escribir en un cierto lenguaje de programacion. Los lenguajes de programacion que se acercan mas al lenguaje humano que al del ordenador reciben el nombre de "lenguajes de alto nivel" (como Pascal); los que se acercan mas al ordenador son los de "bajo nivel" (como el ensamblador). Lo mas habitual es crear los programas en un lenguaje de alto nivel (llamado "fuente") y despues convertirlos al lenguaje propio del ordenador ("compilarlos" para obtener un "ejecutable").
+PROM;Memoria ROM programable (Programmable ROM).
+Protegido (modo);Los procesadores de la serie x86 de Intel tienen, a partir del modelo 80386, varios modos de trabajo, siendo los mas habituales el modo real y el modo protegido. En el modo real, el procesador trabaja como si fuera un 8086, con todas sus limtiaciones;no se puede acceder directamente a mas de 640K de memoria, y esta memoria esta dividida en bloques (segmentos) de 64K de tamanyo. En el modo protegido, se puede acceder a toda la memoria que realmente posee el ordenador, y ademas esta memoria esta disponible de forma lineal, sin estar dividida en segmentos. (Nota;tambien habia un modo protegido en los procesadores 80286, poco utilizado, y no compatible con el de los 80386 y superiores).
+Protocolo;normas a seguir en una cierta comunicacion;formato de los datos que debe enviar el emisor, como debe ser cada una de las respuestas del receptor, etc.
+Proxy;Software que permite a varios ordenadores acceder a Internet a traves de una unica conexion fisica. Segun lo avanzado que sea, puede permitir acceder a paginas Web, FTP, correo electronico, etc. Es frecuente que tambien incluyan otros servicios, como cortafuegos (FireWalls).
+Pulgada;unidad del sistema ingles de longitud, equivalente a 2,54 cm.
+Quattro;Aplicacion de hoja de calculo realizada por Borland.
+RAM;Memoria de acceso directo (Random Access Memory). Normalmente se usa este nombre para referirse a memorias en las que se puede leer y tambien escribir (RWM). En los ultimos PC es habitual que se use Fast Page Ram (386 y anteriores), EDO Ram (486 y Pentium) y SDRAM (ultimos Pentium, Pentium MMX y superiores).
+RAR;Extension de ficheros comprimidos. El compresor correspondiente es el RAR.
+Raster;Tipo de imagen (ver BitMap).
+Rasterizar;Convertir una imagen de vectorial a bitmap.
+Raton;Dispositivo utilizado para comunicarse con el ordenador. Permite senyalar zonas de la pantalla, como modo de indicar al ordenador lo que deseamos hacer.
+RDSI;Red Digital de Servicios Integrados;la red telefonica digital.
+Real (modo);modo de trabajo de los procesadores 80x86 (ver protegido).
+Red de ordenadores;Conjunto de ordenadores conectados entre si con el fin de compartir recursos (por ejemplo, impresoras) e informacion.
+Red Hat;Una de las casas especializadas en realizar distribuciones de Linux.
+Registro;En el mundo de las bases de datos, cada una de las fichas que componen una tabla.
+Release;(en espanyol, "revision" o "version"). Es habitual que una aplicacion software sufra modificaciones, mejoras o correcciones. El numero de version suele indicar el avance de los cambios. Suelen ser numeros correlativos, y frecuentemente son dos cifras separadas por un punto. Por ejemplo, el paso de la version 2 a la 3 de una aplicacion suele conllevar cambios significativos, mientras que el paso de la 3.0 a la 3.1 indica cambios de menor importancia; el siguiente grupo de mejoras fuertes llevaria a la version 4.0. Hay quien afina mas, utilizando tres cifras en vez de dos;1.1.56. Algunos fabricantes usan el numero de anyo de lanzamiento (p.ej.;Office 97) en vez de numeros consecutivos.
+Reset;ver arranque.
+Revision;Ver release.
+RGB;Descomposicion de colores en funcion de tres componentes basicos;rojo, verde y azul (Red, Green, Blue). Es la descomposicion habitual en las pantallas de ordenador. Se trata de colores aditivos;cuanto mayor es la cantidad de rojo, verde y azul, mas se aproxima el color resultante al blanco.
+RISC;Un tipo de procesadores que reconoce un conjunto pequenyo de ordenes, pero que es capaz de responder a esas ordenes a una gran velocidad (opuesto a CISC).
+RLL;Sistema utilizado por muchos de los primeros discos duros disponibles en equipos compatibles PC y XT.
+RMI;Invocacion de metodos remotos (Remote Method Invocation), consiste en que un objeto acceda a un metodo (una de las funcionalidades) de otro objeto remoto (que este situado en otro punto de una red).
+ROM;Memoria solo de lectura (Read Only Memory).
+Root;Administrador de un sistema Unix.
+RS232;Es una conexion serie normalizada, muy frecuente en ordenadores personales. Hay dos conectores normalizados, de 9 pins (DB9) y de 25 pins (DB25).
+RTB;Red Telefonica Basica;la red telefonica convencional, analogica.
+Run;Ver Ejecutar.
+RWM;Memoria en la que se puede leer escribir (Read/Write Memory).
+SB;Se suele usar como abreviatura de SoundBlaster.
+Scanner;Dispositivo capaz de leer imagenes estaticas y enviarlas al ordenador. Desde el ordenador habra la posibilidad de imprimir estas imagenes, modificarlas, etc.
+SCO;Santa Cruz Operation, casa desarrolladora de uno de los UNIX comerciales mas extendidos.
+SCSI;Small Computer System Interface, una conexion estandar para diversos dispositivos como discos duros o scanners. Los discos duros SCSI suelen ser mas rapidos (y mas caros) que los IDE.
+SDK;Kit de desarrollo de software, un conjunto de aplicaciones para desarrollar programas en un determinado lenguaje o para un determinado entorno (Software Development Kit).
+SDRAM;Tipo de memoria RAM, utilizada en equipos PC de gama alta (Pentium II y superiores, ademas de algun Pentium "normal").
+Serie;En una conexion serie, los bits de informacion se mandan uno tras otro. Esto hace que la comunicacion sea mas lenta que en la transmision paralelo.
+Shareware;Aplicacion informatica que se puede copiar y distribuir libremente. Se trata de una version de evaluacion, que suele estar limitada en algun aspecto. Si la aplicacion parece satisfactoria al usuario que la prueba, debe entonces pagar al autor, y a cambio recibe una version de la aplicacion sin ninguna limitacion.
+SIMM;Tipo de modulo de memoria RAM (Single In-line Memory Module).
+Sinclair;Casa fabricante de ordenadores, hoy desaparecida, que tuvo una epoca de auge con los primeros ordenadores domesticos, especialmente con su modelo ZX Spectrum. Fue tambien autora de otros modelos anteriores, como el ZX 80 o el ZX81 y posteriores (pero con menos exito) como el QL.
+SIPP;Tipo de modulo de memoria RAM (anticuado, usado en algun 286).
+Sistema operativo;Es una capa intermedia entre el ordenador y el usuario. Se podria considerar como un programa (normalmente de gran tamanyo) que toma el control del ordenador y que nos proporciona las utilidades basicas. Para usos mas avanzados, necesitaremos instalar aplicaciones informaticas como bases de datos, hojas de calculo, programas a medida, etc.
+SLIP;Un protocolo estandar en Internet para conexiones a traves del puerto serie (Serial Line Internet Protocol).
+SmallTalk;Lenguaje de programacion orientado a objetos.
+SmartSuite;Suite realizada por Lotus, que incluye aplicaciones como WordPro, 1-2-3 y Organizer.
+Software;La parte "que no se puede tocar" de un ordenador;los programas y los datos.
+SoHo;Se suele hablar de entornos SoHo para referirse a entornos domesticos o de pequenya empresa, en los que se puedan necesitar equipos de una potencia relativamente baja (Small Office - Home Office).
+Solaris;Version del sistema operativo Unix, desarollada por Sun.
+Sound Blaster;Una de las marcas de tarjetas de sonido mas conocidas. Corresponde a toda una gama creada por la casa Creative Labs.
+Spectrum;Gama de ordenadores desarrollados por Sinclair diversas casas (como Sony, Philips, Toshiba, Spectravideo, etc.) a mediados de los anyos 80. Estaban basados en el procesador Z80, con 16 o 48k de memoria (las primeras versiones), capacidad de realizar graficos con 8 colores a 256x186 puntos y de emitir sonidos, y se podian conectar a cualquier television. Posteriormente se desarrollaron versiones mejoradas, con teclados mas comodos (Spectrum + -Plus-), unidad de cinta incorporada (Spectrum +2) o unidad de disco de 3" y 178K, memoria ampliada a 128 K y otras mejoras internas (Spectrum +3).
+Spooler;Ver Buffer.
+SQL;Un lenguaje estandar de consulta a bases de datos (Structured Query Language).
+SRAM;Memoria RAM estatica.
+SSL;Capa de conexion segura (Secure Sockets Layer).
+StarOffice;Suite realizada por StarDivision, hoy propiedad de Sun, que incluye aplicaciones de proceso de textos, hoja de calculo, base de datos, dibujo, presentaciones, y que esta disponible para diversos sistemas operativos..
+Streamer;lector/grabador de cintas magneticas especiales para ordenador. Permiten una capacidad elevada a un bajo precio, pero son mas lentos que otros dispositivos como los diskettes, CD-Rom, o disco duro.
+Subir;Ver Bajar.
+Subnotebook;ordenador portatil (laptop) de dimensiones inferiores a un A4.
+Suite;Conjunto de programas disenyados para trabajar juntos. En espanyol se suele llamar "Paquete Integrado". Es frecuente que incluyan un procesador de texto, una hoja de calculo, un organizador personal, y pueden tener otros modulos, como gestores de bases de datos, programas de graficos o presentaciones, etc.
+Sun;casa de desarrolladora de hardware y software, que ha tenido un gran auge ultimamente debido a la creacion del lenguaje Java.
+SuperVGA;Ver SVGA.
+Suse;Una de las casas especializadas en realizar distribuciones de Linux.
+SVGA;SuperVGA. Tarjetas graficas de ordenadores PC y compatibles, evolucion de la VGA. Suelen permitir trabajar a 800x600, 1024x768 y 1280x1024 puntos, con 256 colores (8 bits), 65536 colores (16 bits), 16 millones de colores (24 bits) o 4.000 millones de colores (32 bits, "color autentico" o "true color"), dependiendo de la cantidad de memoria instalada.
+SX;Variante de los procesadores 80386 y 80486.
+S3M;Extension que corresponde a un tipo de ficheros de sonido.
+Tabla;En el mundo de las bases de datos, un conjunto de registros (fichas) que tienen una cierta homogeneidad (por ejemplo, los datos de nuestros proveedores podrian estar almacenados en una misma tabla).
+Tambor;Uno de los componentes de muchas impresoras laser y copiadoras (para mas detalles, ver Laser).
+Tb;Abreviatura de TeraByte.
+TCP/IP;Protocolo de comunicaciones estandar en Internet (Transmission Control Protocol/Internet Protocol).
+Tarjeta de sonido;Dispositivo que da al ordenador la capacidad de sintetizar y emitir sonidos, asi como de capturarlos. Es frecuente que un ordenador que no tenga tarjeta de sonido disponga al menos de un pequenyo altavoz, que se puede controlar directamente desde el procesador para emitir sonidos de baja calidad.
+Tarjeta grafica;Dispositivo que da al ordenador la capacidad mostrar imagenes en pantalla. Las prestaciones de una tarjeta grafica suelen depender de la cantidad de puntos y de colores que es capaz de mostrar, de su rapidez, y de la cantidad de memoria de que dispone (a mayor cantidad de memoria, sera capaz de mostrar imagenes con mas puntos y/o mas colores). La tarjeta grafica debe ir en consonancia con la pantalla o monitor. Por ejemplo, una pantalla que solo permita mostrar 800x600 puntos o menos, no podra sacar todo el partido a una tarjeta que alcance los 1024x768 puntos. Las mas frecuentes en los PC han sido, de mas antigua a mas moderna;Hercules, CGA, EGA, MCGA, VGA, SVGA.
+Telnet;Uno de los servicios que ofrece Internet;es la posibilidad de acceder remotamente a otro ordenador de la Red, y trabajar desde nuestra pantalla como si estuviesemos realmente tecleando delante de ese ordenador.
+Terabyte;Multiplo del byte;un terabyte son 1.024 GigaBytes, cerca de un billon (un millon de millones) de bytes.
+TFT;Tipo de pantalla LCD en color para ordenadores portatiles. Ofrece mas contraste y mejor angulo de vision que las Dual Scan, pero es mas cara (Thin Film Transistor).
+TIF;Es la Extension que corresponde a un tipo de fichero grafico de mapa de bits;el formato TIFF.
+TIFF;Uno de los tipos de fichero grafico de mapa de bits mas extendidos, incluso entre ordenadores de muy distintos tipos (Tagged Image File Format).
+Toner;La tinta en polvo que suelen usar las impresoras laser y copiadoras (para mas detalles, ver Laser).
+Turbo C++; Compilador de lenguaje C++, desarrollado por Borland.
+Turbo Pascal; Compilador de lenguaje Pascal, desarrollado por Borland.
+UC2;Extension de ficheros comprimidos. El compresor correspondiente es el Ultra Compressor (UC).
+Unix;Sistema operativo multitarea y multiusuario.
+Upload;Ver Bajar.
+URL;Direccion de una cierta pagina de informacion dentro de Internet (Universal Resources Locator).
+USB;Bus serie universal (universal serial bus), un nuevo tipo de conexion serie que se esta imponiendo rapidamente por ciertas caracteristicas como;se pueden conectar varios dispositivos a un mismo puerto (hasta 127), se pueden conectar con el ordenador encendido, y el ordenador detecta el dispositivo del que se trata.
+Usenet;Uno de los servicios que ofrece Internet, tambien conocido como News.
+Vectorial;Un tipo de imagenes para ordenador, en las que se almacena informacion sobre las lineas y figuras geometricas que las componen. Esto permite que no pierdan definicion si se amplian, al contrario de lo que ocurre con las imagenes "Bitmap".
+Vectorizar;convertir una imagen Bitmap a vectorial.
+Version;Ver release.
+VESA;Video Electronics Standards Association. Una asociacion encargada de realizar estandares relacionados con las tarjetas graficas para ordenadores. Realizo una arquitectura de palcas base de 32 bits (Vesa Local Bus o VLB) y definio una serie de modos de video estandar para diversas tarjetas graficas SVGA.
+VGA;Matriz grafica de video (Video Graphics Array). Tarjeta grafica de ordenadores PC y compatibles, evolucion de la MCGA, que permitia trabajar tambien a 16 colores con 640x480 puntos.
+Virtual;Esta palabra se suele usar para referirse a algo que no existe realmente, sino solo dentro del ordenador. Las dos acepciones mas habituales son "Realidad virtual", referida a un espacio en 3 dimensiones creado dentro del ordenador, por el que el usuario puede desplazarse (normalmente con la ayuda de dispositivos auxiliares, como gafas estereoscopicas, guantes o joysticks), y "Memoria virtual", que consiste en que un ordenador aparente tener mas memoria de la que fisicamente tiene, gracias a que parte del disco duro se utiliza como zona de almacenamiento intermedio, en la que se va volcando informacion cuando la memoria real se satura (de forma transparente, sin que el usuario tenga que hacer nada).
+Virus;Un programa con intenciones malignas, que es capaz de propagarse de un fichero a otro del ordenador.
+VLB;VESA Local Bus, tipo de arquitectura estandar de placas base, con ranuras de ampliacion de 32 bits, basada en ISA, disenyadas especialmente para tarjetas graficas, hoy en dia abandonada.
+WAN;Red de area amplia (Wide Area Network).
+WAV;Es la Extension que corresponde a un fichero de sonido (el estandar en Windows);WAVe.
+Web;Ver WWW.
+Winchester;nombre que antiguamente de daba a los discos duros.
+Windows;Nombre generico de toda una familia de software disenyado por Microsoft. Las primeras versiones (hasta la 3.11) eran un entorno grafico basado en ventanas, para el sistema operativo Dos. A partir de Windows 95 (Windows 95 y Windows 98) ya se trata de un sistema operativo en si mismo, con capacidades multitarea. Tambien existen versiones "especiales" de Windows, como Windows NT, disenyado para entornos profesionales, o Windows CE, para ordenadores portatiles de muy reducidas dimensiones.
+WMF;Es la Extension que corresponde a un tipo de fichero grafico vectorial (el estandar en Windows);Windows MetaFile.
+Word;Procesador de textos realizado por Microsoft.
+WordPerfect;Procesador de textos realizado inicialmente por WordPerfect Corporation y actualmente por Corel.
+WordPro;Procesador de textos realizado por Lotus, evolucion de otro anterior llamado AmiPro.
+WordStar;Procesador de textos, que marco un estandar bajo MsDos pero que actualmente no se continua mejorando (hasta donde yo conozco).
+World Wide Web;Ver WWW.
+WP;Se suele usar como abreviatura de Word Processing (procesamiento de textos) o de WordPerfect.
+WWW;World Wide Web; posiblemente, el servicio mas conocido de Internet;una serie de paginas de informacion, con texto, imagenes (a veces, incluso otras posibilidades, como sonido o secuencias de video), y enlazadas a su vez con otras paginas que tengan informacion relacionada con ellas.
+Xbase;Nombre generico que se suele dar al lenguaje de programacion para bases de datos que usaba dBase y que aplicaron (y ampliaron) otras herramientas como Clipper o FoxPro.
+Xenix;Version del sistema operativo UNIX desarrollada por Microsoft a finales de los 70 y principios de los 80, disenyada especificamente para los ordenadores compatibles PC.
+Xerox;Conocido fabricante de impresoras, copiadoras y plotters.
+XLS;Extension de los ficheros de creados con Excel.
+XML;Lenguaje de descripcion de paginas de Internet (eXtensible Markup Language), disenyado con la intencion de reemplazar al estandar actual HTML.
+XMS;Ver memoria extendida.
+XT;El IBM XT era una variante del ordenador IBM PC original, que incluia disco duro (el PC original no).
+XWindows;Entorno grafico basado en ventanas, para el sistema operativo Unix.
+X86;Nombre generico que se suele dar a la familia de procesadores Intel basados en el 8086;el 8086 original y su variante 8088, 80286, 386, 486 y la actual gama Pentium (Pentium, Pentium Pro, Pentium MMX, Pentium II, Celeron).
+ZIP;Extension de ficheros comprimidos. El compresor correspondiente suele llamarse ZIP o PKZIP. // ZIP;Unidad de almacenamiento similar a un diskette, pero con una capacidad de 100 Mb, creada por Iomega.
+Z80;Procesador de 8 bits, creado por la casa Zilog, que fue muy utilizado en la primera generacion de ordenadores personales, en equipos como los Sinclair ZX Spectrum, MSX, Amstrad CPC, etc.
+1-2-3;Aplicacion de hoja de calculo realizada por Lotus.
+286;Nombre generico que se suele dar a los ordenador basados en el procesador 80286, o incluso al mismo procesador.
+3D Studio;Conocido programa de creacion de imagenes en 3 dimensiones, realizado por Autodesk.
+386;Nombre generico que se suele dar a los ordenador basados en el procesador 80386, o incluso al mismo procesador.
+486;Nombre generico que se suele dar a los ordenador basados en el procesador 80486, o incluso al mismo procesador.
+80x86;Ver X86.
+8086;Procesador CISC de 16 bits realizado por Intel, base de toda la gama x86. Su bus de direcciones era de 20 bits (capaz de direccionar 1 Mb de memoria). Se fabrico con velocidades de 4,77 a 10 Mhz.
+8087;Coprocesador matematico disenyado para facilitar al procesador 8086 los calculos con numeros reales (con decimales).
+8088;Procesador realizado por Intel,. Se trataba de una variante del 8086 (compatible con el) que trabajaba con un bus de datos de 8 bits (en vez de 16), con la intencion de abaratar costes a cambio de una menor velocidad efectiva.
+80286;Procesador de 16 bits realizado por Intel, evolucion del 8086 (y compatible con el). Su bus de direcciones era de 24 bits (capaz de direccionar 16 Mb de memoria). Se fabrico con velocidades entre 6 y 16 Mhz (aunque existieron versiones que llegaron hasta los 25 MHz).
+80287;Coprocesador matematico disenyado para ayudar al procesador 80286.
+80386;Procesador de 32 bits realizado por Intel, evolucion del 80286 (y compatible con el y con el 8086), con un bus de direcciones de 32 bits (capaz de direccionar 4 Gb de memoria). Se fabrico con velocidades entre 16 y 33 Mhz (aunque AMD realizo tambien una version a 40 MHz). Se realizo una variante mas barata, con bus de datos de 16 bits, llamada 80386 SX. A raiz de la creacion de esta version "pequenya", se cambio el nombre de la version "normal" a 80386 DX.
+80387;Coprocesador matematico disenyado para ayudar al 80386.
+80486;Procesador de 32 bits realizado por Intel, evolucion del 80386 (y compatible con el y con toda la familia x86). Se fabrico con velocidades entre 16 y 100 Mhz. Incluia coprocesador en el propio micro y otras mejoras frente al 80386. Se realizo una version "barata", llamada 486 SX que no incluia dicho coprocesador. Tambien se hicieron versiones mejoradas sobre la normal (llamada DX);los 486 DX2 eran versiones con velocidad "duplicada" (por ejemplo, en un 486 DX2/66, la placa base trabajaba a 33 MHz, mientras que en el interior del micro la velocidad era el doble;66 MHz); los 486 DX4 tenian la velocidad triplicada (el 486 DX4/100 trabajaba a 99 MHz en una placa a 33 MHz)

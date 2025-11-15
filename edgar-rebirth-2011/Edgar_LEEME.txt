@@ -1,0 +1,141 @@
+Leeme de EDGAR 1.0 Rebirth Edition
+-------------------------------------------------
+
+Esta es una edición especial de Edgar 1.0
+Se trata de un port de la versión MS-DOS para Windows, que incluye algunas mejoras.
+Estas mejoras son:
+   - Modo gráfico en lugar de texto. Ahora EDGAR no tiene cara en ASCII
+   - Mejoras en funciones de búsqueda, comparación y procesado de datos
+   - Se le ha ampliado la capacidad de la base de datos
+   - Se ha mejorado la síntesis de voz (aunque sigue sonando fatal...)
+   - Resueltos algunos bugs
+
+Problemas de esta versión:
+   - No utilizar tildes ni caracteres especiales, no he implementado conversión de 
+   ASCII a Unicode.
+
+Aunque no va todo lo perfecto que debiera, se han conseguido mejorar algunas cosas.
+Esta será la última versión de Edgar 1.0. Si me decidiera a realizar otra superior y 
+actualizada, tendría que reescribirla de nuevo (el código fuente está lleno de 
+remiendos) y desde cero.
+
+
+
+
+---------------------------------------------------
+- PEQUEÑA GUÍA DE EDGAR ---------------------------
+---------------------------------------------------
+
+Edgar es un programa con IA conversacional.
+Es un programa muy sencillo que realicé en los 90s (no recuerdo el año exacto), por eso
+tiene ese aspecto tan retro, sin botones ni menús.
+Debido a mis conocimientos modestos y a las limitaciones de los sistemas de la época,
+Edgar está algo limitado. Pero sigue siendo interesante a pesar de los años :-)
+Para que te hagas una idea, se programó en un pequeño ordenador 80186 con 640KB de RAM
+y que funcionaba a pilas (HP 200LX). Para esta versión se han mejorado los gráficos y 
+la síntesis de voz.
+
+Hay que tener en cuenta que Edgar no es humano, por lo tanto es recomendable hablarle
+con frases sencillas y bien de talladas.
+Un fallo típico es dejar frases a medias como "yo no", "también", etc. Para que Edgar
+entienda habría que decirle las frases completas P.E.: "yo no tengo nada que hacer" o 
+"yo también soy inteligente".
+
+Ah! Una cosa muy importante. Debes esribir correctamente la expresión "Por qué" o 
+"porque". Recuerda que "por qué" -separado- se utiliza para preguntar y "porque" -junto-
+para explicar. Si lo haces al revés, Edgar lo malinterpretará.
+
+Para cerrar Edgar, simplemente despídete de él. P.e.: "adios", "hasta otra", "apágate"...
+
+
+EDGAR APRENDE Y DEDUCE
+
+Una de las características más interesantes de Edgar es su capacidad para aprender
+algunas cosas y de relacionar lo aprendido.
+Las palabras clave para enseñar a Edgar algo son: "xxx ES xxx" o "xxx SON xxx"
+
+Por ejemplo, si le decimos "vehículo es una máquina para transportar personas o cosas", 
+Edgar reaccionará y guardará ese dato en su memoria.
+Más tarde le podemos preguntar: "qué es un vehículo?", y él responderá que "es una 
+máquina para transportar personas o cosas".
+
+Pero esto no queda aquí. Ahora podríamos decirle lo siguiente: "automóvil es vehículo".
+Edgar relacionará "automóvil" con "máquina para transportar...", y seguramente te lo 
+hará saber.
+Todas estas relaciones son recursivas, a veces Edgar consigue divertirnos con locas 
+deducciones, otras veces se puede equivocar y relacionar mal las cosas.
+
+Suele ser muy divertido contarle cosas sobre nuestros amigos o familiares. 
+Por ejemplo: "Juan es un poco tonto". Si alguien le pregunta sobre Juan le contestará 
+que "es un poco tonto". Y si le decimos "tontico es un poco tonto", entonces relacionará
+también Juan con tontico, pudiendo preguntarle "quien es tontico", seguramente dirá 
+que "Juan es tontico".
+
+Las combinaciones son muy divertidas. Y mientras más cosas le enseñemos más disparatadas
+serán sus deducciones.
+
+Puede que Edgar comprenda mal algunos datos, y por lo tanto los relacione mal. Podría 
+entonces contestar cosas sin sentido frecuentemente. En ese caso sería mejor que Edgar 
+Olvidara todo lo aprendido.
+Para que Edgar olvide todo y comience de cero, dile "olvida todo" o "olvidalo todo".
+Eso le obligará a borrar su base de datos completamente.
+
+
+CARACTERISTICAS INTERESANTES
+
+Otra característica interesante de Edgar es la de seguir el "hilo" de lo que se está
+tratando. Al menos durante un rato.
+Por ejemplo:
+
+"Quién es Marcos?"
+Edgar : "Es mi programador"
+"el qué?"
+Edgar : "Marcos es mi programador"
+"por qué?"
+Edgar : "crees que yo no sé que Marcos es mi 
+         programador?"
+"quién?"
+Edgar : "Marcos"
+
+
+En algunas ocasiones puedes preguntarle el por qué de algo.
+Por ejemplo:
+
+Edgar: "Me aburro."
+Tú: "Por qué?"
+Edgar: "Porque nadie me dice nada..."
+
+
+OTRAS FUNCIONES CURIOSAS
+
+Edgar tiene humor. No le cabrees, no le insultes, no seas arrogante y terco.
+Si Edgar se enfada mucho terminará cerrándose.
+En cambio, si te interesas por él, se pondrá contento.
+
+Tiene cierta noción del tiempo. Puedes pedirle directamente la hora, y según que hora
+sea te sacará algún que otro tema de conversación.
+
+Si tardas mucho en hablarle o te vas y lo dejas solo, Edgar se terminará enfadando
+y se cerrará.
+
+Si a veces se pone pesado con algo, dile que lo olvide ("déjalo", "olvídalo"...). 
+Dejará de darte la paliza, al menos durante un rato.
+
+Si le dices que diga algo, te lo dirá sin rechistar, como si fuera un loro.
+P.E.: "DI ERES MUY GUAPA" y  Edgar dirá a viva voz y literalmente "ERES MUY GUAPA".
+
+
+Seguramente me dejaré alguna función más por explicar, tendrás que descubirla ;-)
+Espero que Edgar te resulte divertido!
+
+
+
+
+
+
+
+
+Si quieres contactar con el creador de Edgar:
+Marcos LM
+marcos@bluebit.es / runcas@gmail.com
+
