@@ -50,6 +50,19 @@ La Rebirth Edition añade, respecto a las versiones DOS anteriores:
 
 ---
 
+### Capturas
+
+**Edgar 1.0 LX – versión original (ASCII monótono)**  
+![Edgar 1.0 LX – interfaz de texto monócroma con cara ASCII sencilla](docs/edgar10lx.png)
+
+**Edgar 1.0 LX Plus – interfaz mejorada (ASCII “adornado”)**  
+![Edgar 1.0 LX Plus – versión extendida para HP 200LX, con interfaz de texto enriquecida](docs/edgar10lxplus.png)
+
+**Edgar 1.0 Rebirth Edition – pantalla de introducción y pantalla de conversación**  
+![Edgar 1.0 RE – pantalla de intro en modo VGA 320x200 y 256 colores](docs/edgar10re1.png) ![Edgar 1.0 RE – pantalla de chat con la cara del robot y área de diálogo](docs/edgar10re2.png)
+
+---
+
 ## Línea temporal del proyecto
 
 A grandes rasgos, Edgar ha pasado por estas fases:
