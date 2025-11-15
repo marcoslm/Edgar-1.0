@@ -217,8 +217,6 @@ En la carpeta de **versiones históricas** (`legacy-2004-hp200lx`) se pueden enc
 
 - Ejecutables para DOS/200LX.
 
-
-
 Estas versiones **no están pensadas para ser compiladas hoy tal cual**, se conservan como **arqueología digital**.
 
 ---
@@ -310,6 +308,12 @@ Si algún día existe un **Edgar 2.0**, sería un proyecto nuevo, desde cero, co
 - **Objetivo actual:** preservar el código y el comportamiento de Edgar 1.0 Rebirth Edition tal y como estaban en 2011.
 
 - Cualquier evolución futura sería en forma de **nuevo proyecto**, no una continuación directa de éste.
+
+## Descargas
+
+Las distintas versiones ejecutables de Edgar 1.0 (Rebirth Edition para Windows, versiones LX/LX Plus para HP 200LX y sus equivalentes con DOSBox para Windows) están disponibles en la sección de *releases* del repositorio:
+
+➡️ [Descargar Edgar 1.0 – paquetes y ejecutables](https://github.com/marcoslm/Edgar-1.0/releases/tag/edgar10)
 
 ---
 
